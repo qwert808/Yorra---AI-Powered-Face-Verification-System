@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|c:\\users\\kiit\\desktop\\yorra\\yorra.api\\yorra.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|solutionrelative:yorra.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|c:\\users\\kiit\\desktop\\yorra\\yorra.api\\yorra.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|solutionrelative:yorra.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|c:\\users\\kiit\\desktop\\yorra\\yorra.api\\yorra.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|solutionrelative:yorra.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|c:\\users\\kiit\\desktop\\yorra\\yorra.api\\yorra.api\\yorra.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|solutionrelative:yorra.api\\yorra.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|c:\\users\\kiit\\desktop\\yorra\\yorra.api\\yorra.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|solutionrelative:yorra.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|c:\\users\\kiit\\desktop\\yorra\\yorra.api\\yorra.api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|solutionrelative:yorra.api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|c:\\users\\kiit\\desktop\\yorra\\yorra.api\\yorra.api\\migrations\\20250728110149_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|solutionrelative:yorra.api\\migrations\\20250728110149_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|c:\\users\\kiit\\desktop\\yorra\\yorra.api\\yorra.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AF6DA9-8CDB-4533-94E7-BC4217A2E08C}|Yorra.API\\Yorra.API.csproj|solutionrelative:yorra.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Yorra.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Yorra.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-29T14:49:52.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Yorra.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Yorra.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:12:59.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Yorra.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\appsettings.json",
+              "RelativeToolTip": "Yorra.API\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T10:57:51.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Yorra.API.csproj",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\Yorra.API.csproj",
+              "RelativeDocumentMoniker": "Yorra.API\\Yorra.API.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\Yorra.API.csproj",
+              "RelativeToolTip": "Yorra.API\\Yorra.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T09:13:22.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\Program.cs",
+              "RelativeDocumentMoniker": "Yorra.API\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\Program.cs",
+              "RelativeToolTip": "Yorra.API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:55:20.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250728110149_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\Migrations\\20250728110149_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Yorra.API\\Migrations\\20250728110149_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\Migrations\\20250728110149_InitialCreate.cs",
+              "RelativeToolTip": "Yorra.API\\Migrations\\20250728110149_InitialCreate.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:01:49.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Yorra.API\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\Data\\DataContext.cs",
+              "RelativeToolTip": "Yorra.API\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:13:59.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Yorra.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Yorra\\Yorra.API\\Yorra.API\\Models\\User.cs",
+              "RelativeToolTip": "Yorra.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:11:32.943Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

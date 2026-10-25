@@ -1,0 +1,6 @@
+@Yorra.API_HostAddress = http://localhost:5153
+
+GET {{Yorra.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
